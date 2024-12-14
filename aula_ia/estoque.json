@@ -1,0 +1,14 @@
+[
+    {
+        "nome": "Cabra",
+        "quantidade": 10,
+        "preco": 100.0,
+        "historico": [
+            {
+                "data": "2024-12-14 18:44:08",
+                "tipo": "Adição",
+                "quantidade": 10
+            }
+        ]
+    }
+]
